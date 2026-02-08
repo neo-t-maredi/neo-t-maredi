@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neo-t-maredi
 - 👀 I’m interested in ... Web3, AI, IoT, Game Design and embedded systems
-- 🌱 I’m currently learning ... Foundry, Hardhat, Brownie and Solidity
+- 🌱 I’m currently learning ... Solidity, Rust, Python, Redis
 - 💞️ I’m looking to collaborate on ... not sure yet, just changed jobs :) 
 - 📫 How to reach me ... neo.maredi.dev@gmail.com
 - 😄 Pronouns: ... He/Him
