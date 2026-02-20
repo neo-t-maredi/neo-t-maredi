@@ -22,11 +22,16 @@ Background in oil & gas automation (SCADA systems, PLCs, industrial control syst
 ## Current Focus
 
 🌍 Building **Vericarbon Protocol** for ETH Cape Town 2026  
-Carbon credit marketplace with IoT/satellite verification, AMM price discovery, and on-chain retirement registry.
+HomeInv: Decentralized REIT tackling South African housing inequality through rent-to-equity smart contracts.
+Vericarbon: Carbon credit marketplace with IoT/satellite verification and on-chain retirement registry.
 
 ## Featured Projects
 
 All projects emphasize real-world data integration (no simulated sources) and production-grade Foundry test coverage.
+
+### 🏘️ HomeInv Protocol (In Progress)
+Decentralized REIT on zkSync Era bridging global liquidity and South African spatial justice. 
+ERC-3643 compliance, rent-to-equity vaults, and Street Committee DAOs as community oracles.
 
 ### 🌱 Vericarbon Protocol *(In Progress)*
 Carbon credit marketplace with automated verification via Chainlink oracles pulling data from NASA EMIT and OpenAQ APIs. Features ERC-1155 credits with vintage metadata, constant product AMM, and immutable retirement registry.
