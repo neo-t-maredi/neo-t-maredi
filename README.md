@@ -19,6 +19,7 @@ Background in oil & gas automation (SCADA systems, PLCs, industrial control syst
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## Current Focus
 
