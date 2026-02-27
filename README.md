@@ -31,11 +31,11 @@ Vericarbon: Carbon credit marketplace with IoT/satellite verification and on-cha
 
 All projects emphasize real-world data integration (no simulated sources) and production-grade Foundry test coverage.
 
-### 🏘️ HomeInv Protocol (In Progress)
+### 🏘️ HomeInv Protocol 
 Decentralized REIT on zkSync Era bridging global liquidity and South African spatial justice. 
 ERC-3643 compliance, rent-to-equity vaults, and Street Committee DAOs as community oracles.
 
-### 🌱 Vericarbon Protocol *(In Progress)*
+### 🌱 Vericarbon Protocol 
 Carbon credit marketplace with automated verification via Chainlink oracles pulling data from NASA EMIT and OpenAQ APIs. Features ERC-1155 credits with vintage metadata, constant product AMM, and immutable retirement registry.
 
 ### ⚡ UGPT Protocol
