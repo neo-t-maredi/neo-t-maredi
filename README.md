@@ -25,6 +25,7 @@ Background in oil & gas automation (SCADA systems, PLCs, industrial control syst
 
 🌍 Building **Vericarbon Protocol** for ETH Cape Town 2026  
 🏘️ HomeInv: Decentralized REIT tackling South African housing inequality through rent-to-equity smart contracts.
+
 📊 Vericarbon: Carbon credit marketplace with IoT/satellite verification and on-chain retirement registry.
 
 ## Featured Projects
